@@ -15,13 +15,13 @@
 ### 📬 Contact
 - 📧 Email: **rajraiesh54@gmail.com**
 - 📄 Experience:  
-  👉 [View my work & certificates](https://drive.google.com/drive/folders/1YoE0t6ZzEvTZp2e2DC_A9lUoMK0EAO7g)
+  👉 [View my work & certificates]([https://drive.google.com/drive/folders/1YoE0t6ZzEvTZp2e2DC_A9lUoMK0EAO7g](https://drive.google.com/file/d/1awbh5rA7BZkAERKBSuHbY4bkfEdOoAum/view?usp=sharing))
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="[https://www.linkedin.com" target="_blank"](https://www.linkedin.com/in/rajesh-s-95b2062b3/)>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
 </p>
