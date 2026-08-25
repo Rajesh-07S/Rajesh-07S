@@ -5,7 +5,7 @@
 
 ### 👨‍🎓 About Me
 - 🎓 **B.Tech in Computer Science (Data Science)**  
-  3rd Year (6th Sem) – Vidyashilp University
+  4th Year (7th Sem) – Vidyashilp University
 - 🧠 **Brain Tumor Detection & Segmentation** using Deep Learning on MRI images
 - 🤖 Worked with **TensorFlow & PyTorch**
 - ⚡ Fun fact: *Always Busy Learning*
